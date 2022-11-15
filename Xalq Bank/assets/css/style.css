@@ -1,0 +1,45 @@
+#Header {
+  padding: 30px 0;
+  background-color: #fafafc;
+}
+#Header .header-all {
+  display: flex;
+  justify-content: space-between;
+}
+#Header .header-all .header-logo {
+  display: flex;
+}
+#Header .header-all .header-logo nav {
+  display: flex;
+  gap: 20px;
+}
+#Header .header-all .header-logo nav a {
+  text-decoration: none;
+  color: #707070;
+  font-size: 16px;
+  font-family: sans-serif;
+}
+#Header .header-all .header-service {
+  display: flex;
+  gap: 30px;
+}
+#Header .header-all .header-service .phone a {
+  text-decoration: none;
+  color: #707070;
+  font-size: 16px;
+  font-family: sans-serif;
+}
+#Header .header-all .header-service .service a {
+  text-decoration: none;
+  color: #707070;
+  font-size: 16px;
+  font-family: sans-serif;
+}
+#Header .header-all .header-service .lang select {
+  text-decoration: none;
+  color: #707070;
+  font-size: 16px;
+  font-family: sans-serif;
+  border: none;
+  outline: none;
+}/*# sourceMappingURL=style.css.map */
